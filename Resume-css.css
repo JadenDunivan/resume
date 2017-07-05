@@ -1,0 +1,32 @@
+body{
+	background-color: #d5d8dc ;
+}
+ h3{
+ font-family: "Playfair Display", serif; 
+text-align: center;
+}
+h3{
+	font-size: 15px;
+}
+h1,h2,h4,h5{
+	text-align: center;
+}
+h1,h2{
+color: #800000; 
+}
+h1{
+	font-size: 35px;
+font-family: 'EB Garamond', serif;
+}
+h2{
+	font-size: 25px;
+	font-family: 'Tinos', serif;
+}
+h5{
+	color:Olive;
+	font-size: 15px;
+}
+p{
+	font-size: 20px;
+text-align: center;
+}
